@@ -6,3 +6,5 @@ Dump student databases of various czech universities.
 Doesn't work anymore. Authentication changed from basic auth to
 cookie auth in 2015. Change needed.
 
+## CUNI LFP PLzeň
+Incomplete. Lost last source file.
